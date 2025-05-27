@@ -55,17 +55,23 @@ In this task you will deploy Azure BOT
     ![image](https://github.com/user-attachments/assets/938efbef-49c8-4022-84e3-99eb0985ee10)
 
 10. On **Azure AI Foundry | Azure OpenAI** page, click on ** Deployments (1)** under **Tools** and click on **+ Deployment model(2)**.
+    
     ![image](https://github.com/user-attachments/assets/365e36a6-813d-4de7-a03e-3b0db721e006)
 
-11. Now, click on **Deploy base model**.
+12. Now, click on **Deploy base model**.
+    
     ![image](https://github.com/user-attachments/assets/54be1fdc-e9d2-4f63-a4da-9a26eea5d150)
 
-12. Select **gpt-4o(1)** and click on **Confirm (2)**.
+14. Select **gpt-4o(1)** and click on **Confirm (2)**.
+    
     ![image](https://github.com/user-attachments/assets/685920ac-c600-43e6-9931-fdef6bdc8aa7)
 
-13. Click on **Create resources and deploy**.
+16. Click on **Create resources and deploy**.
+    
     ![image](https://github.com/user-attachments/assets/fbe39890-5b24-4aa3-96eb-6e0adc902a6d)
-14. Model has been created sucessfully.
+    
+18. Model has been created sucessfully.
+    
     ![image](https://github.com/user-attachments/assets/9d060884-149b-44fe-a21f-00090210f1fa)
 
 
@@ -87,11 +93,14 @@ In this task you will deploy Azure BOT
    ![image](https://github.com/user-attachments/assets/5ffc599e-f688-4936-b74f-380af8d642be)
  
 4. Review the options and click on **Create**.
+   
    ![image](https://github.com/user-attachments/assets/e995b707-3f6d-4c95-a821-81b1e4be1fba)
-5. You have successfully created the **Content safety** resource.
+
+6. You have successfully created the **Content safety** resource.
+   
    ![image](https://github.com/user-attachments/assets/f9b4ebd9-2c75-44ab-939b-4c45d96071db)
 
-6. Navigate to the **Azurecommunicationcontentsafety** that you have created and click on **Keys and Endpoint** under **Resource Management** section.
+8. Navigate to the **Azurecommunicationcontentsafety** that you have created and click on **Keys and Endpoint** under **Resource Management** section.
 
    ![image](https://github.com/user-attachments/assets/089b596b-2df6-434e-981d-e6d7becceb19)
 
@@ -99,6 +108,15 @@ In this task you will deploy Azure BOT
     ![image](https://github.com/user-attachments/assets/0f63a5fd-b226-4ee8-8805-3f0b8c2acf9c)
 
 
+## Task 3: Create Communication services
+
+1. From Azure portal home page, search for **Communication services (1)** and select it (2)**.
+   
+   ![image](https://github.com/user-attachments/assets/88827c7b-84ab-407b-a07f-d7573e1b8514)
+
+2. On **Communication services** page, click on **+ Create**.
+
+   ![image](https://github.com/user-attachments/assets/a653556c-c37f-45ed-ad70-9daf61c518fc)
 
 
 
