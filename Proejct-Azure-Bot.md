@@ -51,6 +51,28 @@ In this task you will deploy Azure BOT
 8. You have successfully created the **Azure OpenAI**.
    ![image](https://github.com/user-attachments/assets/c15ac5de-be84-4e2c-a963-ab62f605ef39)
 
+9. On Azure OpenAI, click on **Azure AI Foundary Portal**
+    ![image](https://github.com/user-attachments/assets/938efbef-49c8-4022-84e3-99eb0985ee10)
+
+10. On **Azure AI Foundry | Azure OpenAI** page, click on ** Deployments (1)** under **Tools** and click on **+ Deployment model(2)**.
+    ![image](https://github.com/user-attachments/assets/365e36a6-813d-4de7-a03e-3b0db721e006)
+
+11. Now, click on **Deploy base model**.
+    ![image](https://github.com/user-attachments/assets/54be1fdc-e9d2-4f63-a4da-9a26eea5d150)
+
+12. Select **gpt-4o(1)** and click on **Confirm (2)**.
+    ![image](https://github.com/user-attachments/assets/685920ac-c600-43e6-9931-fdef6bdc8aa7)
+
+13. Click on **Create resources and deploy**.
+    ![image](https://github.com/user-attachments/assets/fbe39890-5b24-4aa3-96eb-6e0adc902a6d)
+14. Model has been created sucessfully.
+    ![image](https://github.com/user-attachments/assets/9d060884-149b-44fe-a21f-00090210f1fa)
+
+
+
+
+
+
 
 
 
