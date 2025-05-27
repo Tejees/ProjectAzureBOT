@@ -40,7 +40,12 @@ In this task you will deploy Azure BOT
    ![image](https://github.com/user-attachments/assets/6a59a74f-ebde-4048-8b2a-3628b9c27dc1)
 
 4. Review the details and click on **Create**.
-   ![image](https://github.com/user-attachments/assets/18b1e484-4dfc-424e-8b05-2ccea7c21b96)
+   
+    ![image](https://github.com/user-attachments/assets/18b1e484-4dfc-424e-8b05-2ccea7c21b96)
+
+5. You have successfully created the Azure bot.
+   ![image](https://github.com/user-attachments/assets/8ee5baff-b65e-4721-862c-395f24b6ffdf)
+
 
 
 
