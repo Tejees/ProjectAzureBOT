@@ -6,8 +6,6 @@ This project integrates Azure AI Content Safety with Azure Communication Service
 
 # Resources
 
-•	Azure Bot
-
 •	Azure Open AI
 
 •	Azure Content Safety
@@ -17,34 +15,43 @@ This project integrates Azure AI Content Safety with Azure Communication Service
 •	Visual studio
 
 
-## Task 1: Azure BOT
+## Task 1: Azure OpenAI
 
 ### Overview:
 
-Azure Bot Service is a fully managed platform on Microsoft Azure that enables developers to build, deploy, and manage intelligent chatbots. It uses the Microsoft Bot Framework and integrates with Azure Cognitive Services to support natural language understanding. These chatbots can communicate with users across multiple channels, including websites, mobile apps, Microsoft Teams, and Facebook Messenger.
+Azure OpenAI Service is a cloud-based platform that provides secure access to OpenAI’s advanced AI models, enabling organizations to build, deploy, and scale generative AI solutions. It allows seamless integration of powerful language and vision models into applications, supporting use cases such as content creation, code generation, data analysis, customer support, and more.
 
 In this task you will deploy Azure BOT
 
-1.	From the Azure portal, click on **Create a resource**.
-   ![image](https://github.com/user-attachments/assets/d3954496-4813-4e77-a199-d275f8d88d6a)
+1.	From the Azure portal, search for **Azure OpenAI (1)** and select it **(2)
+   ![image](https://github.com/user-attachments/assets/0f94a2ea-fced-473c-ae62-ad2eab6a1820)
 
-2. Search for **BOT(1)**, select **Create(2)** under Azure Bot and click on **Azure Bot(3)**.
-   ![image](https://github.com/user-attachments/assets/0b930a99-f7e8-4f40-8ec5-ff23a850a282)
 
-3. On Create an Azure Bot tab, enter the below details:
+2. On **AI Foundary | Azure Open AI** page, click on **Create**.
+   ![image](https://github.com/user-attachments/assets/d0c280ca-7d27-4337-954f-02f8f60c220c)
 
-    - BotHandle : Enter **chatopenaibot(1)**
-    - Subscription : Leave it as Default **(2)**
-    - Resource group : Choose **ProjectAzureBot (3)**
-    - Click on **Review + Create (4)**
-   ![image](https://github.com/user-attachments/assets/6a59a74f-ebde-4048-8b2a-3628b9c27dc1)
 
-4. Review the details and click on **Create**.
+4. On the **Basics** tab, enter the following :
+   - Subscription : Leave it as **Default (1)**
+   - Resource group : Select **ProjectAzurebot (2)**
+   - Region : Choose **EastUS (3)**
+   - Name : Enter **Chatopenaibot (4)**
+   - Pricing tier : Select **Standard S0 (5)**
+   - Click on **Next (6)**
    
-    ![image](https://github.com/user-attachments/assets/18b1e484-4dfc-424e-8b05-2ccea7c21b96)
+   ![image](https://github.com/user-attachments/assets/0b96e504-47f6-4a78-bddc-2bf3cb36a8ea)
 
-5. You have successfully created the Azure bot.
-   ![image](https://github.com/user-attachments/assets/8ee5baff-b65e-4721-862c-395f24b6ffdf)
+5. Leave everything as default under **Network** and click on **Next**.
+
+   ![image](https://github.com/user-attachments/assets/3fc98831-3bc6-4842-94be-737518d24a4a)
+6. Leave everything as default under **Tags** and click on **Next**.
+   ![image](https://github.com/user-attachments/assets/d65dcfb9-5e3a-4afb-b4ac-c4596ffcac06)
+7. Review the options and click on **Create**.
+
+8. You have successfully created the **Azure OpenAI**.
+   ![image](https://github.com/user-attachments/assets/c15ac5de-be84-4e2c-a963-ab62f605ef39)
+
+
 
 
 
