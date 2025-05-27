@@ -15,7 +15,7 @@ This project integrates Azure AI Content Safety with Azure Communication Service
 •	Visual studio
 
 
-## Task 1: Azure OpenAI
+## Task 1: Create Azure OpenAI
 
 ### Overview:
 
@@ -69,11 +69,34 @@ In this task you will deploy Azure BOT
     ![image](https://github.com/user-attachments/assets/9d060884-149b-44fe-a21f-00090210f1fa)
 
 
+## Task 2: Create Content safety
 
+1. On the Azure portal home page, search for **Content safety (1)** and select it **(2)**.
+   ![image](https://github.com/user-attachments/assets/2a7b5a2a-4bab-4baa-bfac-3bba03a06ed6)
 
+2. On **AI Foundry | Content safety** page, click on **+ Create**.
+   ![image](https://github.com/user-attachments/assets/d615b51c-2f77-49cf-85ec-3b31c7fdbe40)
 
+3. On the **Basics** tab, enter the following :
+    - Subscription : Leave it as Default **(1)**
+    - Resource group : Select **ProjectAzureBot (2)**
+    - Region : Select **EastUS (3)**
+    - Name : Enter **Azurecommunicationcontentsafety (4)**
+    - Pricing tier : Select **Standard S0 (5)**
+    - Click on **Review + create (6)**.
+   ![image](https://github.com/user-attachments/assets/5ffc599e-f688-4936-b74f-380af8d642be)
+ 
+4. Review the options and click on **Create**.
+   ![image](https://github.com/user-attachments/assets/e995b707-3f6d-4c95-a821-81b1e4be1fba)
+5. You have successfully created the **Content safety** resource.
+   ![image](https://github.com/user-attachments/assets/f9b4ebd9-2c75-44ab-939b-4c45d96071db)
 
+6. Navigate to the **Azurecommunicationcontentsafety** that you have created and click on **Keys and Endpoint** under **Resource Management** section.
 
+   ![image](https://github.com/user-attachments/assets/089b596b-2df6-434e-981d-e6d7becceb19)
+
+9. Copy the **Key (1)** and **Endpoint (2)**, and save them in a Notepad file you will need them in coming steps.
+    ![image](https://github.com/user-attachments/assets/0f63a5fd-b226-4ee8-8805-3f0b8c2acf9c)
 
 
 
