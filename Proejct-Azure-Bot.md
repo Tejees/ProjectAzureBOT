@@ -127,14 +127,17 @@ In this task you will deploy Azure BOT
    ![image](https://github.com/user-attachments/assets/9dbf6977-d75c-4969-ad66-dafdc0684e46)
 
 4. Review the options and click on **Create**.
+   
    ![image](https://github.com/user-attachments/assets/70ba7c84-132b-47a9-a966-c6e71980bd2e)
 
-5. You have succssfully created the Chat bot communication service.
+6. You have succssfully created the Chat bot communication service.
+   
    ![image](https://github.com/user-attachments/assets/d6b64594-d21d-48a0-ad97-3c60399bd980)
 
-6. On **chatcommunicationbot** page, expand **Settings (1)**, select **Keys (2)** and copy the values of **Endpoint (3)** and **Key (4)** in a notepad. You will be using it in coming steps.
+7. On **chatcommunicationbot** page, expand **Settings (1)**, select **Keys (2)** and copy the values of **Endpoint (3)** and **Key (4)** in a notepad. You will be using it in coming steps.
 
    ![image](https://github.com/user-attachments/assets/1512ceed-6499-48f5-9d2f-1b0dfd75c657)
 
-7. Click on **Cognitive Services (1)** and  map **Content Safety (2)**.
+8. Click on **Cognitive Services (1)** and  map **Content Safety (2)**.
+   
    ![image](https://github.com/user-attachments/assets/39cce156-ebfc-441b-84f5-5c16816d3bb6)
