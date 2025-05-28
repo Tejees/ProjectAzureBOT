@@ -141,3 +141,11 @@ In this task you will deploy Azure BOT
 8. Click on **Cognitive Services (1)** and  map **Content Safety (2)**.
    
    ![image](https://github.com/user-attachments/assets/39cce156-ebfc-441b-84f5-5c16816d3bb6)
+
+9. Navigate to the link mentioned below and downlaod and extract the file in your machine.
+
+    ```
+    https://github.com/Tejees/ProjectAzureBOT/blob/main/azure-chat-moderation.zip
+    ```
+
+10. 
