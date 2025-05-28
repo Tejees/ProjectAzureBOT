@@ -174,3 +174,13 @@ In this task you will deploy Azure BOT
     ![image](https://github.com/user-attachments/assets/18cf3e5c-7d74-4a10-b36d-19c42e28ec76)
 
 17. Now, you have successfully created the AI assistant chat bot.
+
+
+## Summary
+
+In this project, you have covered the following:
+
+- Created Azure OpenAI
+- Created Content safety
+- Created communication services
+  
