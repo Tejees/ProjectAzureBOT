@@ -1,6 +1,7 @@
-# Define download URL and destination
 $installerUrl = "https://update.code.visualstudio.com/latest/win32-x64-user/stable"
 $installerPath = "$env:TEMP\VSCodeSetup.exe"
+[Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls
+[Net.ServicePointManager]::SecurityProtocol = "tls12, tls11, tls" 
 
 # Download the installer
 Invoke-WebRequest -Uri $installerUrl -OutFile $installerPath
