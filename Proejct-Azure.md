@@ -178,10 +178,10 @@ In this task you will deploy Azure BOT
 ## Task 4: Publish AI assistant to Azure Web App   
 
 1. From Azure portal home page, search for **App Services (1)** and **select it (2)**.
-   ![](![1](https://github.com/user-attachments/assets/e5d25b8a-6e33-4e7a-8638-baa6f40d0ba5))
+   ![image](https://github.com/user-attachments/assets/037686dd-9891-4a19-8180-f3ea236162af)
 
 3. On **App Service** page, click on **+ Create (1)** and Choose **Web App (2)**.
-
+   ![image](https://github.com/user-attachments/assets/ebb4c879-7f24-46e7-9f72-1d816827b685)
 
 4. On the **Basics** tab, enter the following:
 
@@ -193,20 +193,20 @@ In this task you will deploy Azure BOT
    - Operating System : select **linux (6)**
    - Region : Select **Canada Central (7)**
    - Linux Plan (Canada Central) : select **ASP-ProjectAzurebot-b0d6 (B1) (8)**
-  
-5. Click on **Review + create (6)**.
+   - Click on **Review + create (6)**.
+   ![image](https://github.com/user-attachments/assets/7d345a09-5704-4afc-a172-c00a33eac76b)
 
-6. Review the options and click on **Create**.
+6. Navigate **visual studio (1)**
 
-7. Navigate **visual studio (1)**
-
-8. In visual studio on left side **select extensions (1)** and install **App Services (2)**
+7. In visual studio on left side **select extensions (1)** and install **App Services (2)**
+   ![image](https://github.com/user-attachments/assets/2d1b303c-eabd-46d1-b5e5-19e072890a48)
 
 9. click `ctrl+shift+p` and click **Azure: sign in**
 
-10. On left side click **Azure (1)** under Resources select **subscription (2)**, click **App Service (3)** and select created web app **projecchat (4)**
+19. On left side click **Azure (1)** under Resources select **subscription (2)**, click **App Service (3)** and select created web app **projecchat (4)**
+    ![image](https://github.com/user-attachments/assets/4012f65e-22ad-4a8a-a72c-419f2cd1d931)
 
-11. RIght click on Web app and select **Deploy to Web App**
+10. RIght click on Web app and select **Deploy to Web App**
 
 
 ## Summary
