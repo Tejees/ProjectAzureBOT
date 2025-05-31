@@ -175,6 +175,39 @@ In this task you will deploy Azure BOT
 
 17. Now, you have successfully created the AI assistant chat bot.
 
+## Task 4: Publish AI assistant to Azure Web App
+
+1. From Azure portal home page, search for **App Services (1)** and **select it (2)**.
+
+
+2. On **App Service** page, click on **+ Create (1)** and Choose **Web App (2)**.
+
+
+3. On the **Basics** tab, enter the following:
+
+   - Subscription : Leave as **Default (1)**
+   - Resource group : Select **ProjectAzureBot (2)**
+   - Name : Enter **projecchat (3)**
+   - publish : Select **code (4)**
+   - Runtime Stack : Select **Net 22 (5)**
+   - Operating System : select **linux (6)**
+   - Region : Select **Canada Central (7)**
+   - Linux Plan (Canada Central) : select **ASP-ProjectAzurebot-b0d6 (B1) (8)**
+  
+4. Click on **Review + create (6)**.
+
+5. Review the options and click on **Create**.
+
+6. Navigate **visual studio (1)**
+
+7. In visual studio on left side **select extensions (1)** and install **App Services (2)**
+
+8. click `ctrl+shift+p` and click **Azure: sign in**
+
+9. On left side click **Azure (1)** under Resources select **subscription (2)**, click **App Service (3)** and select created web app **projecchat (4)**
+
+10. RIght click on Web app and select **Deploy to Web App**
+
 
 ## Summary
 
