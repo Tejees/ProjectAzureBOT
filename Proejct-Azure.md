@@ -1,4 +1,4 @@
-# Azure Communication Services
+# Building a General-Purpose Conversational AI Assistant with Integrated Content Moderation using Azure OpenAI and Azure AI Content Safety
 
 ***Overview:***
 
