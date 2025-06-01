@@ -21,7 +21,7 @@ Azure OpenAI Service is a cloud-based platform that provides secure access to Op
 
 In this task you will deploy Azure BOT
 
-1.	From the Azure portal, search for **Azure OpenAI (1)** and select it **(2)
+1.	From the Azure portal, search for **Azure OpenAI (1)** and select it **(2)**
    ![image](https://github.com/user-attachments/assets/0f94a2ea-fced-473c-ae62-ad2eab6a1820)
 
 
@@ -29,7 +29,7 @@ In this task you will deploy Azure BOT
    ![image](https://github.com/user-attachments/assets/d0c280ca-7d27-4337-954f-02f8f60c220c)
 
 
-4. On the **Basics** tab, enter the following :
+3. On the **Basics** tab, enter the following :
    - Subscription : Leave it as **Default (1)**
    - Resource group : Select **ProjectAzurebot (2)**
    - Region : Choose **EastUS (3)**
@@ -52,7 +52,7 @@ In this task you will deploy Azure BOT
 9. On Azure OpenAI, click on **Azure AI Foundary Portal**
     ![image](https://github.com/user-attachments/assets/938efbef-49c8-4022-84e3-99eb0985ee10)
 
-10. On **Azure AI Foundry | Azure OpenAI** page, click on ** Deployments (1)** under **Tools** and click on **+ Deployment model(2)**.
+10. On **Azure AI Foundry | Azure OpenAI** page, click on **Deployments (1)** under **Tools** and click on **+ Deployment model(2)**.
     
     ![image](https://github.com/user-attachments/assets/365e36a6-813d-4de7-a03e-3b0db721e006)
 
@@ -194,5 +194,5 @@ In this project, you have covered the following:
 
 - Created Azure OpenAI
 - Created Content safety
-- Created communication services
+- Tested the AI assistant application locally and hosted succesfully in Azure app service
   
