@@ -199,9 +199,12 @@ In this task you will deploy Azure BOT
  ![image](https://github.com/user-attachments/assets/76e9ae5f-e4d8-4305-9572-833208f3fe6d)
 
 
-6. Navigate **visual studio (1)**
+6. Navigate **visual studio**
 
-7. In visual studio on left side **select extensions (1)** and install **App Services (2)**
+   ![image](https://github.com/user-attachments/assets/33934808-0d86-4d97-b300-4a819874512e)
+
+
+8. In visual studio on left side **select extensions (1)** and install **App Services (2)**
    ![image](https://github.com/user-attachments/assets/2d1b303c-eabd-46d1-b5e5-19e072890a48)
 
 9. click `ctrl+shift+p` and click **Azure: sign in**
@@ -209,7 +212,13 @@ In this task you will deploy Azure BOT
 19. On left side click **Azure (1)** under Resources select **subscription (2)**, click **App Service (3)** and select created web app **projecchat (4)**
     ![image](https://github.com/user-attachments/assets/4012f65e-22ad-4a8a-a72c-419f2cd1d931)
 
-10. RIght click on Web app and select **Deploy to Web App**
+10. Right click on Web app and select **Deploy to Web App**
+
+    ![image](https://github.com/user-attachments/assets/8503d406-a1cb-4221-98a0-681dd23e9a9e)
+
+12. After deploying the app browse the web site.
+
+    ![image](https://github.com/user-attachments/assets/0ffd83da-0b48-4c03-9f8d-a4888c4871b0)
 
 
 ## Summary
