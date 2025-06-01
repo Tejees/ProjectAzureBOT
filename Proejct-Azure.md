@@ -135,7 +135,7 @@ In this task you will deploy Azure BOT
     ```
     node server.js
     ```
-    ![image](https://github.com/user-attachments/assets/d6222f7e-bca0-4915-a1db-3abcde13983b)
+    
 
 8. The application will start running at `http://localhost:3000/`. Open a new browser tab and navigate to that URL to access the application.
 
