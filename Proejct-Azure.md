@@ -110,70 +110,39 @@ In this task you will deploy Azure BOT
 
 ## Task 3: Create Communication services
 
-1. From Azure portal home page, search for **Communication services (1)** and select it (2)**.
-   
-   ![image](https://github.com/user-attachments/assets/88827c7b-84ab-407b-a07f-d7573e1b8514)
 
-2. On **Communication services** page, click on **+ Create**.
-
-   ![image](https://github.com/user-attachments/assets/a653556c-c37f-45ed-ad70-9daf61c518fc)
-
-3. On the **Basics** tab, enter the following:
-
-   - Subscription : Leave as **Default (1)**
-   - Resource group : Select **ProjectAzureBot (2)**
-   - Resource Name : Enter **chatcommunicationbot (3)**
-   - Click on **Review + Create (4)**
-   ![image](https://github.com/user-attachments/assets/9dbf6977-d75c-4969-ad66-dafdc0684e46)
-
-4. Review the options and click on **Create**.
-   
-   ![image](https://github.com/user-attachments/assets/70ba7c84-132b-47a9-a966-c6e71980bd2e)
-
-6. You have succssfully created the Chat bot communication service.
-   
-   ![image](https://github.com/user-attachments/assets/d6b64594-d21d-48a0-ad97-3c60399bd980)
-
-7. On **chatcommunicationbot** page, expand **Settings (1)**, select **Keys (2)** and copy the values of **Endpoint (3)** and **Key (4)** in a notepad. You will be using it in coming steps.
-
-   ![image](https://github.com/user-attachments/assets/1512ceed-6499-48f5-9d2f-1b0dfd75c657)
-
-8. Click on **Cognitive Services (1)** and  map **Content Safety (2)**.
-   
-   ![image](https://github.com/user-attachments/assets/39cce156-ebfc-441b-84f5-5c16816d3bb6)
-
-9. Navigate to the link mentioned below and downlaod and extract the file in your machine.
+1. Navigate to the link mentioned below and downlaod and extract the file in your machine.
 
     ```
     https://github.com/Tejees/ProjectAzureBOT/blob/main/azure-chat-moderation.zip
     ```
-10. Navigate to the extacred folder and open **.env** file in notepad.
+2. Navigate to the extacred folder and open **.env** file in notepad.
     ![image](https://github.com/user-attachments/assets/f163e5d2-d1b5-48e4-b9b7-154ee04da0ae)
 
     ![image](https://github.com/user-attachments/assets/f3d28829-d193-4c9e-962d-83a33cd4281c)
 
 
-12. Update the Keys and endpoints and save the file.
+3. Update the Keys and endpoints and save the file.
     
-10. From your machine, search for **Visual studio code** and select it.
+4. From your machine, search for **Visual studio code** and select it.
 
-11. On Visual studio code, click on **File** >> **Open folder** >> and select the extracted azure-chat-moderation folder
+5. On Visual studio code, click on **File** >> **Open folder** >> and select the extracted azure-chat-moderation folder
 
-13. From the upper right corner, click on terminal > New terminal.
+6. From the upper right corner, click on terminal > New terminal.
     
-15. Run the below mentioned command in the terminal.
+7. Run the below mentioned command in the terminal.
 
     ```
     node server.js
     ```
     ![image](https://github.com/user-attachments/assets/d6222f7e-bca0-4915-a1db-3abcde13983b)
 
-16. The application will start running at `http://localhost:3000/`. Open a new browser tab and navigate to that URL to access the application.
+8. The application will start running at `http://localhost:3000/`. Open a new browser tab and navigate to that URL to access the application.
 
-17. You can observe the chat bot is responding to us and also filter the restricted words.
+9. You can observe the chat bot is responding to us and also filter the restricted words.
     ![image](https://github.com/user-attachments/assets/18cf3e5c-7d74-4a10-b36d-19c42e28ec76)
 
-18. Now, you have successfully created the AI assistant chat bot.
+10. Now, you have successfully created the AI assistant chat bot.
 
 ## Task 4: Publish AI assistant to Azure Web App   
 
