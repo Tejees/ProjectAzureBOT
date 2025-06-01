@@ -2,15 +2,15 @@
 
 ***Overview:***
 
-This project integrates Azure AI Content Safety with Azure Communication Services and Azure OpenAI to build a real-time chat application that detects and blocks harmful messages. Will set up and connect the required Azure resources, configure the app with your access keys, and test content moderation during live chats. The goal is to ensure safe and responsible AI-powered communication.
+This project integrates Azure AI Content Safety with Azure OpenAI to build a real-time chat application that detects and blocks harmful messages. Will set up and connect the required Azure resources, configure the node js app with access keys, and test content moderation during live chats. The goal is to ensure safe and responsible AI-powered communication.
 
 # Resources
 
-•	Azure Open AI
+•	Azure Open AI (gpt-4o)
 
 •	Azure Content Safety
 
-•	Visual studio
+•	Azure App Services
 
 
 ## Task 1: Create Azure OpenAI
