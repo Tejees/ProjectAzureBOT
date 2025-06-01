@@ -124,7 +124,7 @@ In this task you will deploy Azure BOT
     
 4. From your machine, search for **Visual studio code** and select it.
 
-5. On Visual studio code, click on **File** >> **Open folder** >> and select the extracted azure-chat-moderation folder
+5. On Visual studio code, click on **File** >> **Open folder** >> and select the extracted ai-assistant.
 
 6. From the upper right corner, click on terminal > New terminal.
     
