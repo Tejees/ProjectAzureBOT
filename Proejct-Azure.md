@@ -181,9 +181,10 @@ In this task you will deploy Azure BOT
    ![image](https://github.com/user-attachments/assets/037686dd-9891-4a19-8180-f3ea236162af)
 
 3. On **App Service** page, click on **+ Create (1)** and Choose **Web App (2)**.
+
    ![image](https://github.com/user-attachments/assets/ebb4c879-7f24-46e7-9f72-1d816827b685)
 
-4. On the **Basics** tab, enter the following:
+5. On the **Basics** tab, enter the following:
 
    - Subscription : Leave as **Default (1)**
    - Resource group : Select **ProjectAzureBot (2)**
