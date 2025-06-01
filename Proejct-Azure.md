@@ -10,8 +10,6 @@ This project integrates Azure AI Content Safety with Azure Communication Service
 
 •	Azure Content Safety
 
-•	Azure Communication Services
-
 •	Visual studio
 
 
@@ -108,7 +106,7 @@ In this task you will deploy Azure BOT
     ![image](https://github.com/user-attachments/assets/0f63a5fd-b226-4ee8-8805-3f0b8c2acf9c)
 
 
-## Task 3: Create Communication services
+## Task 3: Deploy Code in visual studio
 
 
 1. Navigate to the link mentioned below and downlaod and extract the file in your machine.
