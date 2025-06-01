@@ -112,7 +112,7 @@ In this task you will deploy Azure BOT
 1. Navigate to the link mentioned below and downlaod and extract the file in your machine.
 
     ```
-    https://github.com/Tejees/ProjectAzureBOT/blob/main/azure-chat-moderation.zip
+    https://github.com/Tejees/ProjectAzureBOT/raw/refs/heads/main/ai-assistant.zip
     ```
 2. Navigate to the extacred folder and open **.env** file in notepad.
     ![image](https://github.com/user-attachments/assets/f163e5d2-d1b5-48e4-b9b7-154ee04da0ae)
