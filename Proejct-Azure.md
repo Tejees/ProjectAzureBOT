@@ -117,7 +117,7 @@ In this task you will deploy Azure BOT
 2. Navigate to the extacred folder and open **.env** file in notepad.
     ![image](https://github.com/user-attachments/assets/f163e5d2-d1b5-48e4-b9b7-154ee04da0ae)
 
-    ![image](https://github.com/user-attachments/assets/f3d28829-d193-4c9e-962d-83a33cd4281c)
+    ![image](https://github.com/user-attachments/assets/c6fff495-bfc6-40c4-8f12-4d6e26b218a1)
 
 
 3. Update the Keys and endpoints and save the file.
