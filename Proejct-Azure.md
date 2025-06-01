@@ -150,30 +150,30 @@ In this task you will deploy Azure BOT
 10. Navigate to the extacred folder and open **.env** file in notepad.
     ![image](https://github.com/user-attachments/assets/f163e5d2-d1b5-48e4-b9b7-154ee04da0ae)
 
-11. Update the Keys and endpoints and save the file.
+    ![image](https://github.com/user-attachments/assets/f3d28829-d193-4c9e-962d-83a33cd4281c)
+
+
+12. Update the Keys and endpoints and save the file.
     
 10. From your machine, search for **Visual studio code** and select it.
 
-11. On Visual studio code, click on **File** >> **Open folder** >> and select the extracted azure-chat-moderation folder.
-
-12. Now, select **server.js** file in Visual Studio code.
-
-    ![image](https://github.com/user-attachments/assets/e4fd330d-4bf0-4bbc-aed7-5728b0a54ad1)
+11. On Visual studio code, click on **File** >> **Open folder** >> and select the extracted azure-chat-moderation folder
 
 13. From the upper right corner, click on terminal > New terminal.
-14. Run the below mentioned command in the terminal.
+    
+15. Run the below mentioned command in the terminal.
 
     ```
     node server.js
     ```
     ![image](https://github.com/user-attachments/assets/d6222f7e-bca0-4915-a1db-3abcde13983b)
 
-15. The application will start running at `http://localhost:3000/`. Open a new browser tab and navigate to that URL to access the application.
+16. The application will start running at `http://localhost:3000/`. Open a new browser tab and navigate to that URL to access the application.
 
-16. You can observe the chat bot is responding to us and also filter the restricted words.
+17. You can observe the chat bot is responding to us and also filter the restricted words.
     ![image](https://github.com/user-attachments/assets/18cf3e5c-7d74-4a10-b36d-19c42e28ec76)
 
-17. Now, you have successfully created the AI assistant chat bot.
+18. Now, you have successfully created the AI assistant chat bot.
 
 ## Task 4: Publish AI assistant to Azure Web App   
 
