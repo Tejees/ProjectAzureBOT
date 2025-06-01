@@ -8,7 +8,7 @@ Invoke-WebRequest -Uri $installerUrl -OutFile $installerPath
 
 # Run the installer silently
 Write-Host "Installing VS code silently.."
-Start-Process -FilePath $installerPath -ArgumentList "/silent" "/mergetasks=!runcode" -Wait
+Start-Process -FilePath $installerPath -ArgumentList "/silent", "/mergetasks=!runcode" -Wait
 
 # Optionally remove the installer after installation
 Remove-Item $installerPath
