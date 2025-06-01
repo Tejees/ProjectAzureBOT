@@ -195,7 +195,8 @@ In this task you will deploy Azure BOT
    - Region : Select **Canada Central (7)**
    - Linux Plan (Canada Central) : select **ASP-ProjectAzurebot-b0d6 (B1) (8)**
    - Click on **Review + create (6)**.
-   ![image](https://github.com/user-attachments/assets/7d345a09-5704-4afc-a172-c00a33eac76b)
+
+ ![image](https://github.com/user-attachments/assets/7d345a09-5704-4afc-a172-c00a33eac76b)
 
 6. Navigate **visual studio (1)**
 
