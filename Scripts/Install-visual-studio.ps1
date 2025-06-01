@@ -7,7 +7,10 @@ $installerPath = "$env:TEMP\VSCodeSetup.exe"
 Invoke-WebRequest -Uri $installerUrl -OutFile $installerPath
 
 # Run the installer silently
-Start-Process -FilePath $installerPath -ArgumentList "/silent" -Wait
+Write-Host "Installing VS code silently.."
+Start-Process -FilePath $installerPath -ArgumentList "/silent" "/mergetasks=!runcode" -Wait
 
 # Optionally remove the installer after installation
 Remove-Item $installerPath
+
+Write-Host "Visual Studio Code is installed successfully....."
