@@ -14,7 +14,7 @@ This project integrates Azure AI Content Safety with Azure OpenAI to build a rea
 
 ## Architecture Diagram
 
-![archidia](https://github.com/user-attachments/assets/ca447732-2e5f-48a9-ae3d-e152c318902c)
+![image](https://github.com/user-attachments/assets/29715d61-132b-4a86-8450-9612a8142813)
 
 
 ## Task 1: Create Azure OpenAI
